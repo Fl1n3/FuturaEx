@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(10, 10, 10);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -13,6 +13,15 @@ body {
     min-height: 450px;
     padding: 0px;
     margin: 0px;
+}
+.white-span {
+    color:#ffff;
+    text-shadow: #ffff;
+}
+
+.red-span {
+    color:red;
+    text-shadow: 1px 1px 20px red;
 }
 
 .blue-span {
