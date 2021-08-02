@@ -49,6 +49,11 @@ body {
     text-shadow: 1px 1px 20px #ca61ee;
 }
 
+.gray-span {
+    color: #8c8c8c;
+    text-shadow: 1px 1px 20px #8c8c8c;
+}
+
 #c-code {
     font-family: -apple-system, sans-serif;
     color: rgb(200, 200, 200);
