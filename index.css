@@ -20,8 +20,8 @@ body {
 }
 
 .red-span {
-    color:red;
-    text-shadow: 1px 1px 20px red;
+    color: #ff0000;
+    text-shadow: 1px 1px 20px #ff0000;
 }
 
 .blue-span {
